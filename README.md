@@ -37,3 +37,5 @@ You're encourauged to take what you deem fit from this, and use it in your proje
 - F1: A wire if you're feeling adventurous, otherwise a polyfuse with 5.08mm spacing, e.g. Mouser 576-16R110BPR
 ```
 
+Remember to flash the PIC!!!
+
